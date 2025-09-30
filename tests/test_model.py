@@ -5,6 +5,7 @@ from sklearn.preprocessing import LabelBinarizer, OneHotEncoder
 from src.data import process_data, load_data
 from src.model import train_model, inference, compute_model_metrics
 import pytest
+from api.main import app
 
 # Sample data for testing
 @pytest.fixture

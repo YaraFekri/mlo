@@ -1,0 +1,2 @@
+Status Code: 200
+Response: {'prediction': ' <=50K', 'prediction_binary': 0}
