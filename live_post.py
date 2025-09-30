@@ -2,7 +2,7 @@ import requests
 import json
 
 # API endpoint
-url = "https://8000-im6ir9xq0e6g8wqrgqkda-8ecb8680.manusvm.computer/predict"
+url = "http://0.0.0.0:8000/predict"
 
 # Test data
 test_data = {
